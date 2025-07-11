@@ -29,3 +29,4 @@ cloudinary==1.36.0
 django-cloudinary-storage==0.3.0
 resend==0.7.0
 django-extensions==3.2.3
+setuptools<81.0.0
