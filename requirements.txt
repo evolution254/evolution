@@ -4,7 +4,8 @@ djangorestframework==3.14.0
 django-cors-headers==4.3.1
 django-filter==23.5
 django-environ==0.11.2
-psycopg2-binary==2.9.9
+psycopg[binary]==3.1.18
+setuptools<81.0.0
 dj-database-url==2.1.0
 Pillow==10.4.0 --only-binary :all :
 celery==5.3.4
