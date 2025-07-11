@@ -1,0 +1,21 @@
+Welcome to New Revolution!
+
+Hi {{ user.first_name }},
+
+Thank you for joining New Revolution, the modern peer-to-peer marketplace where you can buy, sell, and connect with your community.
+
+To get started, please verify your email address by visiting this link:
+{{ site_url }}/verify-email?token={{ verification_token }}
+
+Once verified, you'll be able to:
+- Create and manage product listings
+- Chat with buyers and sellers  
+- Leave and receive reviews
+- Access all marketplace features
+
+Welcome aboard!
+The New Revolution Team
+
+---
+© 2024 New Revolution. All rights reserved.
+If you didn't create this account, please ignore this email.

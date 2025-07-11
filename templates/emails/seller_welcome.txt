@@ -1,0 +1,30 @@
+Welcome to New Revolution Sellers!
+
+Congratulations {{ user.first_name }}!
+
+You're now a verified seller on New Revolution! You can start listing your products and reaching thousands of potential customers.
+
+Seller Benefits:
+- Unlimited product listings
+- Real-time chat with buyers
+- Boost listings for better visibility
+- Detailed analytics and insights
+- Secure payment processing
+- Review and rating system
+
+Pro Tips for Success:
+- Use high-quality photos for your listings
+- Write detailed, honest descriptions
+- Respond quickly to buyer messages
+- Price competitively
+- Maintain excellent customer service
+
+Start selling: {{ site_url }}/sell
+
+Need help? Check out our Seller Guide or contact our support team.
+
+Happy selling!
+The New Revolution Team
+
+---
+© 2024 New Revolution. All rights reserved.
